@@ -1,3 +1,15 @@
+/**
+ *
+ *
+ * @file list.cpp
+ * @ingroup
+ * @brief Simple linked list
+ * @author tvasconcelos
+ * @date 21-11-2016
+ *
+ * Simple linked list to store  all files info
+ */
+
 #include "include/includes.h"
 
 TList fileList;

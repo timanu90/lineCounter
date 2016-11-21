@@ -1,3 +1,15 @@
+/**
+ *
+ *
+ * @file list.h
+ * @ingroup
+ * @brief Simple linked list
+ * @author tvasconcelos
+ * @date 21-11-2016
+ *
+ * Simple linked list to store  all files info
+ */
+
 #ifndef LIST_H
 #define LIST_H
 

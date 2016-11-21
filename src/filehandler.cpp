@@ -1,3 +1,15 @@
+/**
+ *
+ *
+ * @file filehandler.cpp
+ * @ingroup
+ * @brief Get info from file
+ * @author tvasconcelos
+ * @date 21-11-2016
+ *
+ * Get path to file, file extension and number of lines (for now)
+ */
+
 #include "include/includes.h"
 
 extern TList fileList;

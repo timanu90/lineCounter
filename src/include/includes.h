@@ -1,3 +1,15 @@
+/**
+ *
+ *
+ * @file includes.h
+ * @ingroup
+ * @brief All include files come here
+ * @author tvasconcelos
+ * @date 21-11-2016
+ *
+ * All includes come here so in all files justo do #include "include/includes.h"
+ */
+
 #ifndef INCLUDES_H
 #define INCLUDES_H
 

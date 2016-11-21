@@ -1,3 +1,15 @@
+/**
+ *
+ *
+ * @file report.cpp
+ * @ingroup
+ * @brief Format data to output
+ * @author tvasconcelos
+ * @date 21-11-2016
+ *
+ *
+ */
+
 #include "include/includes.h"
 
 extern TList fileList;

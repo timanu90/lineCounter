@@ -1,3 +1,15 @@
+/**
+ *
+ *
+ * @file dirscan.cpp
+ * @ingroup
+ * @brief Load all file from dir and subdirs
+ * @author tvasconcelos
+ * @date 21-11-2016
+ *
+ *
+ */
+
 #include "include/includes.h"
 
 #define ISDIR           0
