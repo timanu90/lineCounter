@@ -1,0 +1,25 @@
+to commit a file use:
+
+git add <file or dir>
+git commit -m "some_message"
+
+#at first time create a temporary backup     ( change user and project)
+git remote add origin https://github.com/user_name/project.git
+
+
+#if dont wanna to push to master change branch
+git push origin master
+
+
+
+
+
+
+#first time use git
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+
+file counter local repo name: fileCounterLocal
+
