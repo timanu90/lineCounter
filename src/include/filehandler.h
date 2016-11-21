@@ -3,6 +3,6 @@
 
 #include "includes.h"
 
-void dummyPrint(char* str);
+void getInforFromFiles();
 
 #endif // FILEHANDLER_H
