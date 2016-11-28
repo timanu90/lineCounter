@@ -1,0 +1,14 @@
+doc/gitfornoobs
+src/include/dirscan.h
+src/include/filehandler.h
+src/include/fileinfo.h
+src/include/includes.h
+src/include/list.h
+src/include/report.h
+src/dirscan.cpp
+src/filehandler.cpp
+src/fileinfo.cpp
+src/list.cpp
+src/main.cpp
+src/report.cpp
+README.md
